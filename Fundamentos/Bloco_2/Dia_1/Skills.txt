@@ -5,3 +5,6 @@
 - CSS
 - Jaspion
 - Godzilla
+- Eu
+- Ele
+
