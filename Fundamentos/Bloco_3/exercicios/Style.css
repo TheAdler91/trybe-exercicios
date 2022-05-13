@@ -1,0 +1,63 @@
+<style>
+        body{
+
+            padding: 3%;
+        }
+        strong {
+            font-style: oblique;
+        }
+
+        em {
+            color: darkgoldenrod;
+        }
+
+        body {
+            background-color: papayawhip;
+        }
+
+        .description {
+            font-family: Arial, sans-serif;
+            position: absolute;
+            top: 36%;
+            right: 20%;
+        
+        
+        }
+
+        .MeuNome {
+            text-align: center;
+        }
+
+        #nomecompleto {
+            font-family: monospace;
+            font-size: 1.25em;
+        }
+
+        .skill1 {
+            font-size: 1.1em;
+        }
+
+        .skill2 {
+            font-size: 1.0em;
+        }
+
+        #MinhaFoto {
+          
+            float: left;
+            height: 330px;
+            padding: 10px;
+            background-color: darkgrey;
+
+        }
+
+        .image-container{
+            height: 350px;
+            position: relative ;
+            
+        }
+
+        ul li:nth-child(odd) {
+            background-color: blue;
+        }
+
+</style>
